@@ -1,0 +1,37 @@
+body {
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(121,73,9,1) 50%, rgba(0,212,255,1) 100%);
+}
+button {
+    width: 24%;
+    height: 70px;
+    background-color: #ffc600;
+    font-size: 25px;
+    margin: 50px 0;
+}
+header {
+    margin: 0 1%;
+    width: 100%;
+}
+.subheader-image {
+    margin: 0 1%;
+    width: 50%;
+    height: 374px;
+    background: white url(https://media-cdn.tripadvisor.com/media/photo-s/17/ca/1b/6c/getlstd-property-photo.jpg);
+    display: inline-block;
+}
+.subheader-image-text {
+    border-style: solid;
+    background-color: antiquewhite;
+    display: inline-block;
+    margin: 15% 20%;
+}
+
+.subheader-prices .subheader-prices-block {
+    width: 20%;
+    height: 374px;
+    background-color: #ffc600;
+    display: inline-block;
+}
+
+
+
