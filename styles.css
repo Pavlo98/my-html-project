@@ -16,7 +16,7 @@ header {
     display: flex;
 }
 .subheader-image {
-    margin: 0 1%;
+    margin: 1%;
     width: 50%;
     height: 374px;
     background: white url(https://media-cdn.tripadvisor.com/media/photo-s/17/ca/1b/6c/getlstd-property-photo.jpg);
@@ -34,12 +34,55 @@ header {
 }
 
 .subheader-prices .subheader-prices-block {
-    width: 100%;
-    height: 163px;
+    width: 35%;
+    height: 130px;
     background-color: #ffc600;
     display: inline-block;
     margin: 15px;
+    text-align: center;
 }
+.subheader-prices .subheader-prices-block {
+    padding-left: 20px;
+    padding-top: 45px;
+    padding-right: 20px;
+}
+.middle-filling-block {
+    background-color: #ffffff;
+    display: inline-block;
+    margin: 15px;
+    text-align: center;
+    width: 12%;
+    height: 160px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    line-height: 90%;
+}
+.big-taco-section {
+display: flex;
+background-color: #ffffff;
+width: 97%;
+height: 100%;
+margin: 15px;
+
+}
+.big-taco-image {
+display: inline-block;
+background-color: #ffffff;
+width: 98%;
+height: 100%;
+margin: 15px;
+
+}
+.text-1 {
+    padding-right: 100%;
+    line-height: 100%;
+}
+.button-1 {
+
+}
+
+
 
 
 
